@@ -15,7 +15,7 @@
  ---
  <br>
 
-🍏 [**0sik.log**](https://velog.io/@0sik) 🍏 공부기록 개발블로그
+🍏 [**0sik.log**](https://0sik.github.io/) 🍏 공부기록 개발블로그
  
  
  
